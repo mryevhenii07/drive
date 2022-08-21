@@ -30,8 +30,6 @@
 
 .sliderContainer {
   padding: 5rem 0;
-  /* width: 830px;
-    margin: 0 auto; */
 }
 
 .card {
@@ -46,4 +44,13 @@
   border-top-right-radius: 10px;
   height: 200px;
   object-fit: cover;
+}
+.card p {
+  text-align: center;
+  padding: 10px;
+}
+
+.make {
+  text-align: center;
+  padding: 5px;
 }
