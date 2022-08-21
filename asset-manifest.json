@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/drive/static/css/main.e6c13ad2.css",
+    "main.js": "/drive/static/js/main.59957797.js",
+    "index.html": "/drive/index.html",
+    "main.e6c13ad2.css.map": "/drive/static/css/main.e6c13ad2.css.map",
+    "main.59957797.js.map": "/drive/static/js/main.59957797.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.59957797.js"
+  ]
+}
